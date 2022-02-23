@@ -66,9 +66,9 @@ main {
     .icon {
         height: 1rem;
         width: 4rem;
-        background-image: url('/images/pattern-divider-mobile.svg');
+        background-image: url('./pattern-divider-mobile.svg');
         @media screen and (min-width: 768px) {
-            background-image: url('/images/pattern-divider-desktop.svg');
+            background-image: url('./pattern-divider-desktop.svg');
             background-position: center;
         }
         background-position: center;
